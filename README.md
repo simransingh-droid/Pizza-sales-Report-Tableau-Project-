@@ -140,4 +140,6 @@ This structured dataset enables multi-dimensional analysis across time, product 
 This project demonstrates the power of data visualization in transforming raw data into meaningful insights. By leveraging Tableau, the analysis provides a clear understanding of sales dynamics and actionable strategies to drive business growth.
 
 ---
+## 👤 Author
 
+Simran Singh
